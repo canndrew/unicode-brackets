@@ -1,6 +1,6 @@
 [package]
 name = "unicode-brackets"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Andrew Cann <shum@canndrew.org>"]
 
 homepage = "https://github.com/canndrew/unicode-brackets"
