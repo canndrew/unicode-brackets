@@ -1,0 +1,15 @@
+[package]
+name = "unicode-brackets"
+version = "0.1.0"
+authors = ["Andrew Cann <shum@canndrew.org>"]
+
+homepage = "https://github.com/canndrew/unicode-brackets"
+repository = "https://github.com/canndrew/unicode-brackets"
+license = "MIT/Apache-2.0"
+keywords = ["text", "unicode"]
+readme = "README.md"
+description = """
+Determine whether characters are opening or closing brackets and change the
+direction of these characters.
+"""
+
