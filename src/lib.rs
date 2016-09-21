@@ -29,6 +29,10 @@
 #![deny(missing_docs, unsafe_code)]
 #![no_std]
 
+/// The version of [Unicode](http://www.unicode.org/) that this version of unicode-brackets is
+/// based on.
+pub const UNICODE_VERSION: (u64, u64, u64) = (9, 0, 0);
+
 /// Methods for determining whether a character is an opening or closing bracket and for changing
 /// the direction of such characters.
 ///
